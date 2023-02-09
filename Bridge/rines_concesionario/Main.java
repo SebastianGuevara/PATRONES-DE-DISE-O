@@ -6,7 +6,7 @@ public class Main {
 
         Forma rinAcero = new Rin(100, 100, 10, 17, new RinAcero());
         Forma rinALuminio = new Rin(100, 100, 10, 18, new RinAluminio());
-        Forma rinAleacion = new Rin(100, 100, 10, 19, new RinAcero());
+        Forma rinAleacion = new Rin(100, 100, 10, 19, new RinAleacion());
 
         rinAcero.elegir();
         rinALuminio.elegir();
